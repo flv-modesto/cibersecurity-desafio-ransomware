@@ -1,0 +1,1 @@
+Esse aquivo contem os dados importantes que serão criptografados.
